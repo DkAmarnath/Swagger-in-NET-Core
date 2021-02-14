@@ -8,9 +8,9 @@ Please go through my blog.
 
 2. Add Swashbuckle.AspNetCore Package and installation
 
-3. Add and Configure Swagger middleware 
+3. Add and Configure Swagger middleware
 
- 4.Customize and extend
+4.Customize and extend
 
 5. XML Comments
 
