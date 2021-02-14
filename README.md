@@ -10,7 +10,7 @@ Please go through my blog.
 
 3. Add and Configure Swagger middleware 
 
-4.Customize and extend
+ 4.Customize and extend
 
 5. XML Comments
 
